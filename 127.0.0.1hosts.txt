@@ -1,0 +1,10 @@
+127.0.0.1 static-s.iqiyi.com
+127.0.0.1 scs-x.iqiyi.com
+127.0.0.1 qosp.iqiyi.com
+127.0.0.1 puma-api.iqiyi.com
+127.0.0.1 policy.video.iqiyi.com
+127.0.0.1 ndct-data.video.iqiyi.com
+127.0.0.1 msgv6.qy.net
+127.0.0.1 msg.qy.net
+127.0.0.1 gdctyuncdnct.inter.iqiyi.com
+127.0.0.1 absod.video.iqiyi.com
